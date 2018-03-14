@@ -1,7 +1,7 @@
 {
   "name": "@mcansh/pid-from-port-cli",
   "description": "Get PID from a port",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
   "license": "MIT",
   "bin": {
