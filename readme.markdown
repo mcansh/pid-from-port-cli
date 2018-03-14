@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ npm install -g pid-from-port-cli
+$ npm install -g @mcansh/pid-from-port-cli
 ```
 
 ```bash
