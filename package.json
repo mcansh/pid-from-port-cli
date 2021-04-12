@@ -10,7 +10,7 @@
   "repository": "https://github.com/mcansh/pid-from-port-cli",
   "dependencies": {
     "args": "^3.0.8",
-    "chalk": "^2.3.2",
-    "pid-from-port": "^1.1.0"
+    "chalk": "^2.4.2",
+    "pid-from-port": "^1.1.3"
   }
 }
